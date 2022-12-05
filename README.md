@@ -21,4 +21,4 @@ https://pljon.github.io/password-generator/
 
 ## Screenshot
 
-![animated screenshot](https://raw.githubusercontent.com/pljon/Refactor-SEO/main/assets/images/horiseon-webpage-capture.jpg)
+![animated screenshot](/password-generator.gif)
